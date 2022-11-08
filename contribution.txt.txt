@@ -1,0 +1,6 @@
+Pooja Biradar
+
+EMS project: The project of the Workforce Management Framework built using Django ,HTML,CSS .where this project contains models like Employee Management ,timesheet,
+Appraisal.Department and reports if all models.
+
+Contribution :My contribution towards this project is of Css part and timesheet models and functions.
